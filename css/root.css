@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'JalnanGothic';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+:root{
+  /*text*/
+  --text-style-en: "Sorts Mill Goudy", serif;
+  --text-style-kr: "pretendard";
+  --text-style-banner-2: 'JalnanGothic';
+
+  --text-color-f: #ffffff;
+  --text-color-1: #232323;
+  --text-color-2: #333333;
+  --text-color-3: #676767;
+  --text-color-banner-1: #F8FE2E;
+  --text-color-banner-3: #fffaa7;
+  /*object*/
+  --line-color: #d9d9d9;
+  --primary-color: #c2b1d6;
+  --star-color:#FF3939;
+  /*background*/
+  --background-color-pr: #f2edfa;
+  --background-color-f: #fff;
+  --background-color-gray: #f7f7f7;
+  --background-color-footer: #767379;
+}
